@@ -112,3 +112,12 @@ export default socket;
 
 here is the deployed url
 https://real-time-chat-application-chi-five.vercel.app/
+
+
+here are the screenshots 
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/98b383ba-15c0-41b0-81fc-f595e980d65e" />
+
+<img width="1918" height="1013" alt="Image" src="https://github.com/user-attachments/assets/cea7c9e0-e0c8-44ca-8866-a74c8bbc0cbf" />
+
+<img width="1917" height="1017" alt="Image" src="https://github.com/user-attachments/assets/b275c7c5-e79f-4e4c-8940-2a95a280be35" />
